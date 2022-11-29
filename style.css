@@ -1,0 +1,13 @@
+.body {
+  box-sizing: border-box;
+  background-image: linear-gradient(to bottom right, #f590b4, #fa23cb
+}
+
+.img {
+  display: block;
+  width: 100%
+}
+
+.card {
+ background-image: url('https://c0.wallpaperflare.com/preview/836/560/868/ants-black-and-white-black-and-white-insect.jpg')
+}
